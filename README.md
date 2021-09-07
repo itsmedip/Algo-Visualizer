@@ -4,8 +4,8 @@ Hi!
 Here are programs to help you with better visualization of popular algorithms
 
 # Results
-* [Graph](https://fantasy-08.github.io/Algo-Visualization-/graph/)
-* [Sorting](https://fantasy-08.github.io/Algo-Visualization-/sorting/)
+* [Graph](https://itsmedip.github.io/Algo-Visualization-/graph/)
+* [Sorting](https://itsmedip.github.io/Algo-Visualization-/sorting/)
 
 # Graph Algorithms
 
@@ -17,11 +17,11 @@ Here are programs to help you with better visualization of popular algorithms
 Feel free to clone and try on your own computer!
 
 ### Check Out Graph
-* [Graph Algorithm Demo](https://fantasy-08.github.io/Algo-Visualization-/graph/)
-*  [Astar Algorithms](https://github.com/fantasy-08/Algo-Visualization-/blob/master/A_Star%20Algorithm.py)
-*  [Depth First Search](https://github.com/fantasy-08/Algo-Visualization-/blob/master/DFS.py)
-*  [Breadth First Search](https://github.com/fantasy-08/Algo-Visualization-/blob/master/BFS.py)
-*  [Dijikstra Algorithm ](https://github.com/fantasy-08/Algo-Visualization-/blob/master/Dijikstra.py)
+* [Graph Algorithm Demo](https://itsmedip.github.io/Algo-Visualization-/graph/)
+*  [Astar Algorithms](https://github.com/itsmedip/Algo-Visualization-/blob/master/A_Star%20Algorithm.py)
+*  [Depth First Search](https://github.com/itsmedip/Algo-Visualization-/blob/master/DFS.py)
+*  [Breadth First Search](https://github.com/itsmedip/Algo-Visualization-/blob/master/BFS.py)
+*  [Dijikstra Algorithm ](https://github.com/itsmedip/Algo-Visualization-/blob/master/Dijikstra.py)
 
 # Sorting Algorithms
 
@@ -33,8 +33,8 @@ Feel free to clone and try on your own computer!
 
 
 ### Check Out Sorting Algorithms
-* [Sort Algorithm Demo](https://fantasy-08.github.io/Algo-Visualization-/sorting/)
-* [Algorithms](https://github.com/fantasy-08/Algo-Visualization-/blob/master/sorting/my_algorithms.py)
+* [Sort Algorithm Demo](https://itsmedip.github.io/Algo-Visualization-/sorting/)
+* [Algorithms](https://github.com/itsmedip/Algo-Visualization-/blob/master/sorting/my_algorithms.py)
 
 ### Installation
 
